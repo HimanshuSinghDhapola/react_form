@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background-image: url('F:\Coding projects\Web Projects\React js\signup form\frontend\src\images\image.jpg');
+    background-size: cover;
+}
